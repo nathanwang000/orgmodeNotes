@@ -1,0 +1,8 @@
+#+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELED(c)
+#+TITLE: README for a project I will start on 10/14/2015
+#+AUTHOR: Jiaxuan Wang
+
+This is an ongoing project where I want to track my everyday activities.
+I will use this folder to record my everyday life and learning experience
+
+stay tuned!

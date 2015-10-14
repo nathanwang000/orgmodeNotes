@@ -1,0 +1,40 @@
+#+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELED(c)
+#+TITLE: README for a project I will start on 10/14/2015
+#+AUTHOR: Jiaxuan Wang
+
+Today I came across bunch of very useful technologies in emacs
+
+Here is an incomplete list:
+
+1. [[https://www.google.com/search?q=yasnippet+emacs&oq=ya&aqs=chrome.0.69i59j69i60j0j69i59j69i60l2.714j0j9&sourceid=chrome&es_sm=91&ie=UTF-8][yasnippet]]
+2. [[file:~/.emacs::(add-to-list%20'package-archives][multicursor]]
+3. [[file:~/.emacs::(add-to-list%20'package-archives][expand region]]
+4. literate programming
+5. latex writing
+
+Let's show case some of its functions:
+
+#+BEGIN_SRC js
+value = 1
+function a() {
+    value = 10
+}
+a()
+return value
+#+END_SRC
+
+#+RESULTS: number
+: 10
+
+#+BEGIN_SRC python :var n=number
+return n+2
+#+END_SRC
+
+#+RESULTS:
+: 12
+
+#+BEGIN_SRC latex
+$x=\alpha b + c$
+#+END_SRC
+
+
