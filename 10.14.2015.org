@@ -37,4 +37,8 @@ return n+2
 $x=\alpha b + c$
 #+END_SRC
 
+To add an new entry in yasnippet:
+
+simply add an entry in ~/.emacs.d/path_to_yasnippet/snippet/*_mode/
+
 
