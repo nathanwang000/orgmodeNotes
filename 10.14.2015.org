@@ -41,4 +41,6 @@ To add an new entry in yasnippet:
 
 simply add an entry in ~/.emacs.d/path_to_yasnippet/snippet/*_mode/
 
-
+* writing of the day
+  sometimes I feel lonely, people do get tired, tired of doing the things people do daily, tired of this repetitive day, tired of just living to live. 
+  Ah, when will I get a girl friend? I am simply too picky, sigh!

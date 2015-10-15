@@ -1,0 +1,15 @@
+#+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELED(c)
+#+TITLE: research note
+#+AUTHOR: Jiaxuan Wang
+#+EMAIL: jiaxuan@umich
+
+* lenet 5 parmas
+#+BEGIN_SRC python
+nparams = 6*5*5 + 6*16*5*5 + 16*16*5*5 + 120*16*4*4 + 84*120 + 10*84 + 80
+return nparams*4*8*2
+#+END_SRC
+
+#+RESULTS:
+: 3242880
+
+

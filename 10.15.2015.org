@@ -1,0 +1,20 @@
+#+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELED(c)
+#+TITLE: 10/15/2015 free writing
+#+AUTHOR: Jiaxuan Wang
+#+EMAIL: jiaxuan@umich
+
+Everything is fine. It's wield that I dreamed of a girl that I'd never think
+I would dream of. Maybe I should contact her? That's too complicated, I refuse
+
+I need to meet my professor today so research stuff is the utmost important thing
+, get things done!
+
+calculation for grid search
+#+BEGIN_SRC python
+num = 4*4*4*3
+return num
+#+END_SRC
+
+#+RESULTS:
+: 192
+
